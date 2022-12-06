@@ -1,9 +1,5 @@
 # News App
 
-## Live Link:
-
-[Click Here!](https://all-in-one-news-app.netlify.app/)
-
 
 # About This App
 
